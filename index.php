@@ -7,7 +7,7 @@ if(isset($_SESSION['unique_id'])){
 <?php include_once 'header.php'?>
 
     <section class="form signup">
-    <header>Private Chat App</header>
+    <header>Buddies Chat App</header>
     <form action="#" enctype="multipart/form-data">
         <div class= "error-txt"></div>
         <div class="name-details">

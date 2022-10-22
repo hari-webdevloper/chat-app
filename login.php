@@ -7,7 +7,7 @@ if(isset($_SESSION['unique_id'])){
 <?php include_once 'header.php'?>
 
     <section class="form login">
-    <header>Realtime Chat App</header>
+    <header>Buddies Chat App</header>
     <form action="#">
         <div class= "error-txt"></div>
             <div class="field input">
